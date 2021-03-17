@@ -1,4 +1,4 @@
-# Ignite - NodeJS - Desafio 01
+# Ignite - NodeJS - Desafio 02
 
 ## :information_source: Informações do projeto
 
