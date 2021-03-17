@@ -88,10 +88,10 @@ Para baixar este projeto é necessário que esteja instalado em seu computador o
 No terminal:
 
 ```bash
-$ git clone https://github.com/raulneto90/ignite-nodejs-desafio01
+$ git clone https://github.com/raulneto90/ignite-nodejs-desafio02
 
 # Acesse o diretório do projeto
-$ cd ignite-nodejs-desafio01
+$ cd ignite-nodejs-desafio02
 
 # Instalar as dependências
 $ yarn
